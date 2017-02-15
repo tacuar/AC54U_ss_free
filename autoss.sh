@@ -10,7 +10,7 @@
 #set -x
 outside_web="https://assets.tumblr.com/images/logo/logo_large.png"
 routename="TestName"
-mode=0
+mode=1
 type=1
 #获取服务器信息
 ithubs_getss_info()
